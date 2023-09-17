@@ -1,5 +1,5 @@
 # Web_Dev_intern_Advindiancoder
-[Auto Assign](https://github.com/adv-indian-coder/demo-repository/actions/workflows/auto-assign.yml/badge.svg)
+[Auto Assign](https://github.com/Badrinath007/Web_Dev_intern_Advindiancoder/actions/workflows/auto-assign.yml/badge.svg)
 
 ![Proof HTML](https://github.com/Badrinath007/Web_Dev_intern_Advindiancoder/actions/workflows/proof-html.yml/badge.svg)
 #Task 1
