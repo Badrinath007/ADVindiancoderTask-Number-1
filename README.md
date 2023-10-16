@@ -1,4 +1,4 @@
-# Web_Dev_intern_Advindiancoder
+# ADVindiancoderTask-1
 
 ![Auto Assign](https://github.com/adv-indian-coder/demo-repository/actions/workflows/auto-assign.yml/badge.svg)
 
